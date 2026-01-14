@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinotoledo-online.com/
+Sitemap: https://casinotoledo-online.com/sitemap.xml

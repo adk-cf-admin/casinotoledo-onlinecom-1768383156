@@ -1,0 +1,19 @@
+{
+  "name": "Casino Castell de Peralada",
+  "short_name": "Casino Castell de Peralada",
+  "theme_color": "",
+  "background_color": "#80000C",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768382165-logo-152.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
